@@ -1,0 +1,12 @@
+{
+    "name": "com.oedodynamics.standalone_file_browser",
+    "version": "1.2.0",
+    "displayName": "StandaloneFileBrowser",
+    "description": "Standalone File Browser package.",
+    "unity": "2022.3",
+    "dependencies": {
+    },
+    "keywords": [
+        "oedodynamics"
+    ]
+}
